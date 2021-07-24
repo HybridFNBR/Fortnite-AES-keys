@@ -118,3 +118,31 @@ Archive of Fortntie AES Main keys these are mostly from Bizzfarts and 0x41414141
 | ----------------- | --------------------------------------------------------------------- | 
 | 15.00             | 0x4bdb8f6be2b8587e8f28b8898283c340d6283f6c4f58e4a41c3066d39e4637c2    |
 | 15.10             | 0x7fe21f0b0d2c00867cd7b6da553d0b6b00cfaf66e0bbb8d5365672afb442e8ee    |
+| 15.10             | 0x7fe21f0b0d2c00867cd7b6da553d0b6b00cfaf66e0bbb8d5365672afb442e8ee    |
+| 15.20             | 0x36983D73A17CAF253F9D1A322A79D6DC53D8E81B661B7564343F41D4835275D5    |
+| 15.21             | 0xC29127AF7A083D2881978B13DB29B9C2407E06E3186B16DFE55ADBF93E8C3252    |
+| 15.30             | 0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0    |
+| 15.40             | 0x67BA1ACFB49BE607B053FF06173B7595912C91AEDB9C59418713823FE335FBA4    |
+| 15.50             | 0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A    |
+
+
+## Season 16
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 16.00             | 0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A    |
+| 16.10             | 0xFE478B39DF1B1D4E8D8DFD38272F216DBE933E7F80ADCC45DC4108D70428F37D    |
+| 16.20             | 0x1522C5C59FD8B9964F10B23DD55BB0255F51D8ABEF1CE7B6BBBBE3239AE18929    |
+| 16.30             | 0xF941D9809A67D9BD104273E3C649F4395B6B6A874D16515F404B50D6A9FFA5A4    |
+| 16.40             | 0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142    |
+| 16.50             | 0x7412E4B98E3CEB374FBF9EB5654A5D7B785B18E3A997FAF8D22EFEEA00DF851E    |
+
+
+## Season 17
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 17.00             | 0x840a3c61b7ba7fdc58eab092ac9f29d23229da63c417f2f0add69f30f1b6980d    |
+| 17.10             | 0x008F96D1CFC625479995F4ED584ACBE709C1F88E7417DAEBFB192C767F7AC84D    |
+| 17.20             | 0x05b3d73f0a0bcdc48c83079d7abaeaeb35c66fe5306524e84936ad3769a069fb    |
+
+
+
