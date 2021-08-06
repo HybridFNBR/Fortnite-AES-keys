@@ -143,6 +143,7 @@ Archive of Fortntie AES Main keys these are mostly from Bizzfarts and 0x41414141
 | 17.00             | 0x840a3c61b7ba7fdc58eab092ac9f29d23229da63c417f2f0add69f30f1b6980d    |
 | 17.10             | 0x008F96D1CFC625479995F4ED584ACBE709C1F88E7417DAEBFB192C767F7AC84D    |
 | 17.20             | 0x05b3d73f0a0bcdc48c83079d7abaeaeb35c66fe5306524e84936ad3769a069fb    |
+| 17.30             | 0x7dd830c5acc92fe26653003abeca10606f3492026a2c971283b2fa6b42de8422    |
 
 
 
